@@ -4,7 +4,7 @@ An interactive Tableau Public story analyzing customer churn rate, churn reasons
 
 ## Tableau Public Dashboard
 
-[View the interactive Tableau dashboard](PASTE_TABLEAU_PUBLIC_LINK_HERE)
+[View the interactive Tableau dashboard](https://public.tableau.com/app/profile/carlos.miranda.rocha/viz/Sample1_17148919910730/DatabelChurners)
 
 ## Overview
 
